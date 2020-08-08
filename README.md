@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<img align="left" alt="rickgao12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rickgao12&show_icons=true&hide_border=true&theme=cobalt" />
+<img align="left" alt="rickgao12's Github Stats" src="https://github-readme-stats-brown.vercel.app/api?username=rickgao12&show_icons=true&hide_border=true&theme=cobalt" />
 
 [website]: https://www.rickgao.me/
 [linkedin]: https://www.linkedin.com/in/rick-gao/
