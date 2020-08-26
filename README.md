@@ -1,7 +1,7 @@
 ### Hi there, I'm [Rick][website], welcome to my profile! 👋
 
 ## I am a CS sophomore at UT Dallas with a passion for software and programming
-- I’m currently open to internship opportunities for full stack development or software development
+- I’m currently open to internship opportunities for software development or web development
 - My passions for developing have driven me to teach myself how to develop small apps for fun
 - I enjoy collaborating with others on projects and ideas
 - My hobbies include video games, watching shows, and learning random history facts
