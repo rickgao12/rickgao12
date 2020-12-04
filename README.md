@@ -1,4 +1,4 @@
-### Hi there, I'm [Rick][website], welcome to my profile! 👋
+### Hi there, I'm Rick, welcome to my profile! 👋
 
 ## I am a CS sophomore at UT Dallas with a passion for software and programming
 - I’m currently open to internship opportunities for software development or web development
